@@ -1,0 +1,10 @@
+/Users/Shani/Projects/Sun/Sun/bin/Debug/netcoreapp2.0/Sun.deps.json
+/Users/Shani/Projects/Sun/Sun/bin/Debug/netcoreapp2.0/Sun.runtimeconfig.json
+/Users/Shani/Projects/Sun/Sun/bin/Debug/netcoreapp2.0/Sun.runtimeconfig.dev.json
+/Users/Shani/Projects/Sun/Sun/bin/Debug/netcoreapp2.0/Sun.dll
+/Users/Shani/Projects/Sun/Sun/bin/Debug/netcoreapp2.0/Sun.pdb
+/Users/Shani/Projects/Sun/Sun/obj/Debug/netcoreapp2.0/Sun.csproj.CoreCompileInputs.cache
+/Users/Shani/Projects/Sun/Sun/obj/Debug/netcoreapp2.0/Sun.AssemblyInfoInputs.cache
+/Users/Shani/Projects/Sun/Sun/obj/Debug/netcoreapp2.0/Sun.AssemblyInfo.cs
+/Users/Shani/Projects/Sun/Sun/obj/Debug/netcoreapp2.0/Sun.dll
+/Users/Shani/Projects/Sun/Sun/obj/Debug/netcoreapp2.0/Sun.pdb
